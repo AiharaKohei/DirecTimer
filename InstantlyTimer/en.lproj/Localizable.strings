@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  InstantlyTimer
+
+  Created by aiharakohei on 2014/04/10.
+  Copyright (c) 2014年 aiharakohei. All rights reserved.
+*/
+
+"timeOver" = "time over";
+"patternBucking" = "You can't store to running number";
+"selectedZero" = "Please specify the time";
+"endStore" = "Stored";

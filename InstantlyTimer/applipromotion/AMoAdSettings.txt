@@ -1,0 +1,3 @@
+appKey=E1KQRMNETR3VQGGF
+test=NO
+conversion=YES

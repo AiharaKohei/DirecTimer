@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  InstantlyTimer
+
+  Created by aiharakohei on 2014/04/10.
+  Copyright (c) 2014年 aiharakohei. All rights reserved.
+*/
+
+"timeOver" = "タイマー終了";
+"patternBucking" = "起動中の番号には保存できません";
+"selectedZero" = "時間を指定してください";
+"endStore"  = "保存しました";
